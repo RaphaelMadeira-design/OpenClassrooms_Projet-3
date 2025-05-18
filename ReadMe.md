@@ -4,7 +4,7 @@
 
 ---
 
-## Objectifs du projet
+## 🎯 Objectifs du projet
 
 - **Créer une interface responsive** : Assurez-vous que la page fonctionne parfaitement sur tous les appareils et tailles d'écran.
 - **Intégrer du contenu selon une maquette** : Respectez les spécifications des maquettes pour un rendu précis.
